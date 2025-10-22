@@ -1,0 +1,22 @@
+{
+  "name": "fortune-cookie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTKlotz/fortune-cookie.git"
+  },
+  "author": "Jordan Klotz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTKlotz/fortune-cookie/issues"
+  },
+  "homepage": "https://github.com/JTKlotz/fortune-cookie#readme",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
